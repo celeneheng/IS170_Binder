@@ -1,1 +1,1 @@
-# IS170_Binder
+The Naive Bayes algorithm uses the Bayes theorem of probability and is considered the most straightforward supervised learning algorithm for classification. The Bayes theorem involves two probabilities; the probability of yes/x and the probability of no/x. The reason it's called naive is that it doesn't consider the interdependency between independent variables. Therefore it doesn't always hold true in real world situations. When this algorithm wants to classify a new data point, it calculates the probability of it belonging to each possible class. 
