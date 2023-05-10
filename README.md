@@ -1,4 +1,4 @@
-[1-Feature Engineering](https://github.com/celeneheng/IS170_Binder/tree/1-Feature-Engineering)
+[1-Feature Engineering](https://github.com/celeneheng/IS170_Binder/tree/1-Feature-Engineeering?files=1)
 
 [2-Text Mining & NLP](https://github.com/celeneheng/IS170_Binder/tree/2-Text-Mining-%26-NLP)
 
