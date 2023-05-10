@@ -1,1 +1,1 @@
-# IS170_Binder
+KNN is a supervised algorithm that classifies a data point based on the classification of its nearest neighbors. It can be used in biometrics, to detect patterns in credit card usage, identify critical patterns in customer purchasing behavior, stock market analysis, and recommender systems. It is used in classification and regression work. When using KNN to classify a new point, KNN  counts up the closest neighbors to determine the class of the new data point. 
