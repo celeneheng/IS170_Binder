@@ -1,1 +1,1 @@
-# IS170_Binder
+A support Vector Machine is an unsupervised algorithm that can also be used for regression and classification problems. The advantage of working with SVM is that it can handle High dimensional data. It is useful when finding a separation between data. using the kernel trick or kernel function, data can be classified on multiple planes in order to find the hyperplane that best divides the data set into classes.
