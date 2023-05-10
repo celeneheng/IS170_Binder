@@ -6,7 +6,7 @@
 
 [4-Association Rules](https://github.com/celeneheng/IS170_Binder/tree/4-Association-Rules)
 
-[5-Principal Component Analysis](https://github.com/celeneheng/IS170_Binder/tree/6-Principal-Component)
+[5-Principal Component Analysis](https://github.com/celeneheng/IS170_Binder/tree/5-Principal-Component-Analysis)
 
 [6-K-Nearest Neighbors](https://github.com/celeneheng/IS170_Binder/tree/7-K-Nearest-Neighbors)
 
