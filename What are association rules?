@@ -1,1 +1,1 @@
-# IS170_Binder
+It is an unsupervised learning algorithm that looks for patterns between things. It is also known as The Market Basket analysis. Association rules can be used to study customer purchase Behavior, and store layouts, to deliver Target marketing, medical diagnosis, and credit card and banking. it looks to see which items are frequently purchased together by looking at the probability that variables occur at the same time. 
