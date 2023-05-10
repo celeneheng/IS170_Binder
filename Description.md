@@ -1,1 +1,1 @@
-
+Feature engineering is prepping the data so that is can most effectively be used in a machine learning algorithm. When feature engineering, you are accounting for missing or null values. Encoding, scaling, or selecting specific features or feature characteristics. 
