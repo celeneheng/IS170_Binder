@@ -1,1 +1,5 @@
-# IS170_Binder
+NLP stands for Natural Language Processing. It can allow computers to understand and generate human language.
+
+Text mining and NLP Applications can be used in web search, spam filters, sentiment analysis, chatbots (ChatGPT, Amazon’s Alexa, Apple’s Siri, MS Cortona), speech-to-text conversion, text translation, text summarization, and text generation.
+Text mining processes text into a format that is easy for machines to read. The primary text mining processes are tokenization, stemming, lemmatization, and stopword removal.
+
