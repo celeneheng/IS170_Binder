@@ -1,0 +1,3 @@
+It is an unsupervised algorithm that determines the number(k) of different groups or clusters based on particular attributes of data. 
+
+K-means clustering has various applications, such as customer segmentation, image compression, document clustering, anomaly detection, and recommendation systems.
