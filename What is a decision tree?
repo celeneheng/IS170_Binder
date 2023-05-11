@@ -1,1 +1,8 @@
-A decision tree is used both in classification and regression tasks. Applications for decision trees could be mediating risky bank loans, predicting loan defaults or frauds, HR control and management, customer profiling, retaining customers, creating an information hierarchy and structure, and diagnosing medical problems. It is called a decision tree because it has a flowchart structure. It separates a data set into two groups, and the separation process repeats until it can't be separated into anything meaningful. A decision tree has three sections the decision node, the branch, which represents a decision rule, and the leaf node, which represents the outcome. The algorithm can also utilize a Random Forest, an algorithm that uses multiple decision trees to make a better prediction model. The most important function in a decision tree is the decisionTreeClassifier(); it is used to select the best split. 
+A decision tree is used both in classification and regression tasks. 
+Applications for decision trees could be mediating risky bank loans, predicting loan defaults or frauds,
+HR control and management, customer profiling, retaining customers, creating an information hierarchy and structure, 
+and diagnosing medical problems. It is called a decision tree because it has a flowchart structure. 
+It separates a data set into two groups, and the separation process repeats until it can't be separated into anything meaningful. 
+A decision tree has three sections the decision node, the branch, which represents a decision rule, and the leaf node, which represents the outcome. 
+The algorithm can also utilize a Random Forest, an algorithm that uses multiple decision trees to make a better prediction model. 
+The most important function in a decision tree is the decisionTreeClassifier(); it is used to select the best split. 
