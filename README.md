@@ -17,3 +17,5 @@
 [9-Decision Tree](https://github.com/celeneheng/IS170_Binder/tree/10-Decision-Tree)
 
 [10-Support Vector Machine](https://github.com/celeneheng/IS170_Binder/tree/11-Support-Vector-Machine)
+
+[11-Social Network Analytics](https://github.com/celeneheng/IS170_Binder/blob/11-Social-Network-Analytics/What%20is%20social%20network%20analytics%3F)
